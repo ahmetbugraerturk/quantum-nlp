@@ -1,3 +1,10 @@
+# VALAR
+output/
+setup.sh
+
+# Model Weights
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
